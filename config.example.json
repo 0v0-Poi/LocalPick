@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": "mmd",
+      "name": "MMD",
+      "path": "D:\\MMD",
+      "open_mode": "file",
+      "extensions": [".mp4", ".mkv", ".avi", ".wmv", ".webm", ".ts", ".mov"]
+    },
+    {
+      "id": "video",
+      "name": "视频",
+      "path": "D:\\Videos",
+      "open_mode": "file",
+      "extensions": [".mp4", ".mkv", ".avi", ".wmv", ".webm", ".ts", ".mov"]
+    },
+    {
+      "id": "game",
+      "name": "游戏",
+      "path": "D:\\Games",
+      "open_mode": "folder_only",
+      "extensions": [".exe"]
+    }
+  ],
+  "last": {
+    "mmd": null,
+    "video": null,
+    "game": null
+  },
+  "skip_dir_names": ["DwnlData", "$RECYCLE.BIN", "System Volume Information"],
+  "skip_extensions": [".torrent", ".nfo", ".txt", ".srt", ".url", ".ini", ".log", ".jpg", ".jpeg", ".png", ".gif"]
+}
